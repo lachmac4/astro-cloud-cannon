@@ -2,18 +2,15 @@
 title: About
 description: My About Page
 heroComponent:
-  title: Hey! 👋
-  content: >-
-    Amet culpa deserunt dolore Lorem nulla do adipisicing velit deserunt eiusmod
-    non do incididunt. Eiusmod aute eiusmod esse est id adipisicing do. Ullamco
-    velit ea sunt eiusmod proident
+  title: Welcome!
+  content: We're getting married!
   image:
-    src: /images/headshot.jpg
-    alt: My headshot
-    width: 200
-    height: 330
+    src: /images/000023730027-27.jpg
+    alt: Us
+    width: 1600
+    height: 900
   link:
-    href: mailto:chris@codinginpublic.dev
+    href:
     style: secondary
     text: Contact Me
 ---
